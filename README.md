@@ -17,3 +17,7 @@ När man väljer 4 i menyn skriver man kontots ägare och hur mycket man vill ta
 ## Reflektion
 
 När jag fastnade försökte jag göra en sak i taget och köra programmet efter varje del. Jag använde AI för att få hjälp och för att få koden förklarad på ett enklare sätt. Till exempel förstod jag först inte varför "findAccount" returnerar "null". Jag testade då med ett namn som fanns och ett som inte fanns och såg hur kontrollen fungerade i "Main".
+
+## Muntlig redovisning
+
+Länk till videon: https://funet-my.sharepoint.com/:v:/g/personal/3kdyhapp26_alnsya_folkuniversitetet_nu/IQArQjhPzKHJS7n3aZJ9gqEtAZnrNLZ3zIsvPqfB0VoPoLQ
